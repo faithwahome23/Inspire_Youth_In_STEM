@@ -24,3 +24,4 @@ add_numbers(44,55)
 prod_numbers(20,30)
 prod_numbers(4,5)
 prod_numbers(44,55)
+#write a programme to print the factorial of a number using functions

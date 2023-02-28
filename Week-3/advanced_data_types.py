@@ -34,4 +34,12 @@ student = {"Name" : "Faith","age""" : 18, "gender" : "female"}
 print(student["age"])
 print(student["gender"])
 #"name" : "Faith" -->name(key) Faith (value)
-#4
+#4 Sets
+
+my_fruits = {"banana","orange","melon","mangoe"}
+print(my_fruits)
+for fruit in my_fruits:
+    print(fruit)
+print(type(my_fruits))
+print(len(my_fruits))
+#5functions 
