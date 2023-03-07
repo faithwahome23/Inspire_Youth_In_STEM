@@ -1,0 +1,36 @@
+*{
+    background-color:aquamarine;
+}
+h1{
+    font-size:24px;
+    color:black;
+    align-content:center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+     max-height: 30px;
+
+
+    
+}
+#msg_button{
+    color:blue; 
+    margin: 25px;
+    align-self:center;
+    background-color:aqua;
+    border:none;
+    border-radius : 10px;
+    
+
+}
+p{background-color: black;
+  color:crimson;
+  font-size: x-large;
+  align-self: auto;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    font-family: Arial,serif;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: blue;
+}
